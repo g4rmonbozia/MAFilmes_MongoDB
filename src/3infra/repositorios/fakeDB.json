@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "titulo": "Ocupa",
+        "estreia": false
+    },
+    {
+        "id": 2,
+        "titulo": "Citrotoxic",
+        "estreia": false
+    },
+    {
+        "id": 1234,
+        "titulo": "Tramoia",
+        "estreia": true
+    }
+]
