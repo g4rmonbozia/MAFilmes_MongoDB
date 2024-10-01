@@ -1,4 +1,4 @@
-# Curso Backend com Typescript da Pósgraduação do Instituto Infnet
+# Curso Backend com Typescript com MongoDB - MAFilmes
 
 ## Para rodar em ambiente dev
 
